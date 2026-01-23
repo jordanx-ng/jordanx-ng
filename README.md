@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Jordan 👋
 
-<!--
-**jordanx-ng/jordanx-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring biomedical data analyst with a background in Life Sciences, currently learning Python and SQL.
 
-Here are some ideas to get you started:
+🧬 **Interests**
+- Healthcare & biomedical data analytics
+- Public health and clinical datasets
+- Applying data science to real-world health problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Tools & Skills**
+- Python (pandas, matplotlib)
+- SQL (SQLite)
+- Data cleaning & exploratory analysis
+
+🚀 **What I'm working on**
+- Python & SQL data analysis projects
+- Healthcare-focused datasets
+- Building a strong data analytics portfolio before university
+
+
