@@ -1,6 +1,6 @@
 ## Hi, I'm Jordan 👋
 
-I'm an aspiring biomedical data analyst with a background in Life Sciences, currently learning Python and SQL.
+I'm an aspiring biomedical data analyst persuing Life Sciences in National University Of Singapore and second major in Data Analytics, currently learning Python and SQL.
 
 🧬 **Interests**
 - Healthcare & biomedical data analytics
