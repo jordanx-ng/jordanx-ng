@@ -1,20 +1,37 @@
-## Hi, I'm Jordan 👋
+## Hi, I’m Jordan 👋
 
-I'm an aspiring biomedical data analyst persuing Life Sciences in National University Of Singapore and second major in Data Analytics, currently learning Python and SQL.
+I’m a incoming NUS life sciences student preparing for postgraduate training in
+Applied Biomedicine, with a focus on drug discovery and development.
 
-🧬 **Interests**
-- Healthcare & biomedical data analytics
-- Public health and clinical datasets
-- Applying data science to real-world health problems
+I’m developing computational literacy alongside my biomedical background,
+with particular interest in how data analysis supports target discovery,
+preclinical research, and clinical development.
 
-📊 **Tools & Skills**
-- Python (pandas, matplotlib)
-- SQL (SQLite)
-- Data cleaning & exploratory analysis
+### 🔬 Current Focus
+- Python for biological and biomedical data analysis
+- pandas for cleaning and analyzing experimental and clinical datasets
+- SQL for working with structured biomedical and healthcare data
+- Applying computation to problems in drug discovery and translational research
 
-🚀 **What I'm working on**
-- Python & SQL data analysis projects
-- Healthcare-focused datasets
-- Building a strong data analytics portfolio before university
+### 📁 Featured Projects
+- **Python Biomedical Basics**  
+  Mutation frequency counting and DNA sequence analysis using Python  
+- **Biomedical Data Cleaning & Analysis**  
+  Cleaning and summarizing health-related datasets using pandas  
+- **Healthcare / Clinical Data Analysis** *(in progress)*  
+  Python + SQL analysis of structured biomedical data
 
+### 🧠 Why This Matters
+Modern drug discovery and development rely heavily on data from
+high-throughput experiments, preclinical studies, and clinical trials.
+My goal is to bridge life science knowledge with data-driven analysis
+to support evidence-based decision-making in translational biomedicine.
 
+### 🛠 Tools & Skills
+- Python
+- pandas (learning)
+- SQL (learning)
+- Data analysis & visualization
+- Scientific and quantitative reasoning
+
+📫 Interested in research-oriented and translational biomedical opportunities.
