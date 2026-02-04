@@ -13,14 +13,6 @@ preclinical research, and clinical development.
 - SQL for working with structured biomedical and healthcare data
 - Applying computation to problems in drug discovery and translational research
 
-###  Featured Projects
-- **Python Biomedical Basics**  
-  Mutation frequency counting and DNA sequence analysis using Python  
-- **Biomedical Data Cleaning & Analysis**  
-  Cleaning and summarizing health-related datasets using pandas  
-- **Healthcare / Clinical Data Analysis** *(in progress)*  
-  Python + SQL analysis of structured biomedical data
-
 ###  My Goal
 Modern drug discovery and development rely heavily on data from
 high-throughput experiments, preclinical studies, and clinical trials.
