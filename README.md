@@ -21,7 +21,7 @@ to support evidence-based decision-making in translational biomedicine.
 
 ### 🛠 Tools & Skills
 - Python
-- pandas (learning)
+- pandas
 - SQL (learning)
 - Data analysis & visualization
 - Scientific and quantitative reasoning
